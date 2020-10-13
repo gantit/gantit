@@ -39,3 +39,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gantit" height="20" width="20" />
   </a>
 </p>
+
+
+## Support
+
+<a href="https://www.buymeacoffee.com/jocadev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" width="30px" height="30px" alt="Buy Me A Coffee or Beer" width="135">Buy Me A Coffee or Beer</a>
