@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gantit" alt="https://github.com/gantit" />
 </p>
 
-- 🔭 Actualmente trabajo para [Vicens Vives](https://www.vicensvives.com/)
+- 🔭 Actualmente trabajo para [BBVA](https://www.bbva.es/)
 
 - 👯 Puedo colaborar en **cualquier proyecto** y más si mejoran la vida de las personas
 
