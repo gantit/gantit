@@ -29,10 +29,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23282C34?style=flat-square&logo=vercel&logoColor=ffffff)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gantit&show_icons=true" alt="https://github.com/gantit" />
-</p>
-
 <p align="center">
   <a href="https://twitter.com/gantit" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gantit" height="20" width="20" />
